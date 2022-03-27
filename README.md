@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Chris @Krisskii and I am a 25 year old student who is also self teaching himself programming.
-- I really enjoy web development and would be looking to land my first job within this field where I could start working on
+
+I really enjoy web development and would be looking to land my first job within this field where I could start working on
 real life projects.
 
 I have studied IT in College however did not proceed with it at the time, I was unsure of what I wanted to do with my life.
