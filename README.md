@@ -17,8 +17,8 @@ I enjoy both the front and back end of software development and would like to fu
 
 If you have any questions you can find me on:
 
-GitHub: https://github.com/Krisskii
-Linkedin: https://www.linkedin.com/in/k-manikowski/
-Email: k.manikowski@outlook.com
-Tel: +48 572 138 137
-     +44 7878964285
+- GitHub: https://github.com/Krisskii
+- Linkedin: https://www.linkedin.com/in/k-manikowski/
+- Email: k.manikowski@outlook.com
+- Tel-1: +48 572 138 137
+- Tel-2: +44 7878964285     
