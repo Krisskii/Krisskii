@@ -1,17 +1,24 @@
-- 👋 Hi, I’m Chris @Krisskii and I am a 25 year old student who is also self teaching himself programming.
+👋 Hi, I’m Chris @Krisskii and I am a 25 year old student who is also self teaching himself programming.
 
-I really enjoy web development and would be looking to land my first job within this field where I could start working on
-real life projects.
+I have recently finished a dedicated Data Engineering bootcamp provided by an English company QA. 
+The bootcamp was focused on active exercises based on: 
+  - Microsoft Azure
+  - Python
+  - MySQL
+  - PowerBI
+  - Fundamental knowledge of Machine learning using Microsoft Azure
 
-I have studied IT in College however did not proceed with it at the time, I was unsure of what I wanted to do with my life.
-Throughout the years I have on and off came back to coding, especially websites as it was something that really brought me joy and
-I could do it for hours a day. I am looking for a pathway that could get me back on track with my programming skills, whether that 
-is an internship, apprenticeship or a junior position.
+The course has been suplemented with Microsoft DP-900 certification that I have passed.
 
-I am passionate about brand marketing and I like to pay close attention to the details across all the potential platforms a company can use,
-including website development.
+Apart from that I am currently self teaching myself Python to further develop my skills, with the help of Youtube and Udemy I am slowly creating more and more projects that you can find in the portfolio. 
+I am an IT High school graduate and I have the fundamental mindset from school of a 'can do' approach. I have previously had experience in building responsive websites using HTML, CSS and jQuery.
 
-I have recently graduataed from QA Data Engineering Course that has also helped me a lot in catching up with the latest cloud technology using Microsoft
-Azure as the provider, as well as start my coding experience in Python and MySQL.
+I enjoy both the front and back end of software development and would like to further develop my skills to progress into a junior developer position in the near future.
 
-If you have any questions, don't hesitate to ask.\ k.manikowski@outlook.com
+If you have any questions you can find me on:
+
+GitHub: https://github.com/Krisskii
+Linkedin: https://www.linkedin.com/in/k-manikowski/
+Email: k.manikowski@outlook.com
+Tel: +48 572 138 137
+     +44 7878964285
